@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36414.22 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArithmeticLib", "ArithmeticLib\ArithmeticLib.csproj", "{BC96D4F2-3E43-48B5-B0BE-B5E9E693839C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArithmeticLib.Tests", "ArithmeticLib.Tests\ArithmeticLib.Tests.csproj", "{337017F4-E838-4D31-A3F8-8080CA974565}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BC96D4F2-3E43-48B5-B0BE-B5E9E693839C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC96D4F2-3E43-48B5-B0BE-B5E9E693839C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC96D4F2-3E43-48B5-B0BE-B5E9E693839C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC96D4F2-3E43-48B5-B0BE-B5E9E693839C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{337017F4-E838-4D31-A3F8-8080CA974565}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{337017F4-E838-4D31-A3F8-8080CA974565}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{337017F4-E838-4D31-A3F8-8080CA974565}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{337017F4-E838-4D31-A3F8-8080CA974565}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EA1F4B37-390B-4D9C-8DD6-AD73545F838E}
+	EndGlobalSection
+EndGlobal
